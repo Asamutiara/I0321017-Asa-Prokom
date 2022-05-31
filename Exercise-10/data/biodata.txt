@@ -1,0 +1,6 @@
+Nama: Asa
+Umur: 19
+Alamat: Baki, Sukoharjo
+Nama: Mutiara
+Umur: 20
+Alamat: Solo
